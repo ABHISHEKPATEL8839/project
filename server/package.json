@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+     "start":"node app.js",
     "axios": "^1.13.2",
     "cors": "^2.8.5",
     "express": "^5.2.1",
